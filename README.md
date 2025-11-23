@@ -49,7 +49,7 @@ Archivo: src/modelo/ConexionBD.java
 
 private static final String URL = "jdbc:mysql://localhost:3307/supermercado";
 private static final String USER = "root";
-private static final String PASSWORD = "Proyecto123*";
+private static final String PASSWORD = ;
 
 Ajusta tu contraseña y puerto según tu instalación.
 
